@@ -30,7 +30,7 @@ topology:
     p3:
       startup-config: startup/p3-startup-config.txt
     p4:
-      startup-config: startup/p3-startup-config.txt
+      startup-config: startup/p4-startup-config.txt
     cea1:
       kind: nokia_srlinux
       startup-config: startup/cea1-startup-config.txt
